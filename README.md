@@ -1,4 +1,4 @@
-# Hellow world to allure and pytest
+# Hello world to allure and pytest
 
 ## How to use
 1. install `allure`
